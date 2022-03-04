@@ -1,12 +1,5 @@
 ---
-title: Post with Header Image
-tags: TeXt
-article_header:
-  type: cover
-  image:
-    src: /screenshot.jpg
+title: 35년의 경력직, 단가 협상은 전화주세요.
+tags: 경력
 ---
 
-A Post with Header Image, See [Page layout](https://tianqi.name/jekyll-TeXt-theme/samples.html#page-layout) for more examples.
-
-<!--more-->
